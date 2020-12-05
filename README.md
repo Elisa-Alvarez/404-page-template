@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{404 Lost In The Snow}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -49,9 +49,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [CSS AnimationsS](https://www.w3schools.com/css/css3_animations.asp/)
 
 ## Features
 
@@ -64,8 +63,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+- [Making SVGs Fluid Using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/#:~:text=In%20order%20to%20make%20an,leave%20the%20viewBox%20attribute%20present.)
+- [Learn To Build An SVG Animation With CSS -YouTube](https://www.youtube.com/watch?v=gWai7fYp9PY)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact

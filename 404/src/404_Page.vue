@@ -99,7 +99,7 @@
 </svg>
     </div>
    <div class="button-wrapper">
-    <button>Find your way back Home...❄️️</button>
+    <button><a href="https://github.com/Elisa-Alvarez/404-page-template">Find your way back Home...❄️</a>️</button>
    </div>
     <footer>
       <p>This Epic 404 template brought to you by <a class="github-link" href="https://github.com/Elisa-Alvarez">{{name}}</a></p>
@@ -157,6 +157,11 @@ footer{
 p{
   font-size: calc(5px + 1vh);
   text-align: center;
+}
+
+a{
+  color:black;
+  text-decoration: none;
 }
 
 /*Snow Globe */

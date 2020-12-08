@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-page-template.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Elisa-Alvarez/404-page-template/blob/master/404/src/404_Page.vue">
       Solution
     </a>
     <span> | </span>
@@ -36,14 +36,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./404/src/assets/snow-globe-img.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is my snowy 404 page template. A few thing about my project:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can find live project [here](https://404-page-template.vercel.app/)
+- My experience with this project I learned how to make svg responsive as well as how to use CSS animations as well as how to apply them to a svg image.
+- As an improvement I would animate the snowman to wave when you enter the page and have the lights on the christmas tree change different christmas colors.
+- Figma was an intrical part to add and manipulate the svg and be able to change small parts of the image quickly.
 
 ### Built With
 
@@ -51,6 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [Vue.js](https://vuejs.org/)
 - [CSS AnimationsS](https://www.w3schools.com/css/css3_animations.asp/)
+- [Figma.com](figma.com)
 
 ## Features
 
@@ -65,7 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [Making SVGs Fluid Using CSS](https://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/#:~:text=In%20order%20to%20make%20an,leave%20the%20viewBox%20attribute%20present.)
 - [Learn To Build An SVG Animation With CSS -YouTube](https://www.youtube.com/watch?v=gWai7fYp9PY)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
